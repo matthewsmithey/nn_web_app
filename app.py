@@ -1,6 +1,7 @@
 # Deploy Keras Neural Network To Flask Web Service | Part 3 - Send And Receive Data With Flask
 # https://deeplizard.com/learn/video/RkmfXz304ck
 
+!pip install flask
 from flask import request
 from flask import jsonify
 from flask import Flask
